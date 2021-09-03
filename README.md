@@ -4,7 +4,7 @@ I'm fatih Yıldırım a junior front end developer Spend most of time coding out
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@fatihydrmm-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fatihydrmm)](https://twitter.com/fatihydrmm)  [![Linkedin Badge](https://img.shields.io/badge/-fatihydrm-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]  (https://www.linkedin.com/in/fatihydrm/)[![Mail Badge](https://img.shields.io/badge/-@why_leos-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/why_leos/)
+[![Twitter Badge](https://img.shields.io/badge/-@fatihydrmm-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fatihydrmm)](https://twitter.com/fatihydrmm) [![Linkedin Badge](https://img.shields.io/badge/-fatihydrm-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihydrm/) [![Mail Badge](https://img.shields.io/badge/-@why_leos-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/why_leos/)
 
 <!-- TODO: Add last video link -->
 
