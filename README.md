@@ -24,8 +24,6 @@ I'm fatih Yıldırım a junior front end developer Spend most of time coding out
   More stuff about me
 </summary>
 
-<br >
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
