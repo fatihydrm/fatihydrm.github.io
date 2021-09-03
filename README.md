@@ -30,6 +30,7 @@ I'm fatih Yıldırım a junior front end developer Spend most of time coding out
 ```text
 HTML             ████████████████████     87 %
 CSS              ███████████████████      79 %
+SASS             █████████████            79 %
 JavaScript       ███                      08 %
 Other            █                        01 % 
 ```
