@@ -10,4 +10,4 @@
 
 
 #### Commit Stats
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fatihydrm&show_icons=true&theme=dark"/>
