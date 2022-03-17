@@ -7,3 +7,7 @@
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,ai,vscode)](https://skillicons.dev)
+
+
+#### Commit Stats
+<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
