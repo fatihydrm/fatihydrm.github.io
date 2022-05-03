@@ -8,7 +8,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
- Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   transition: background 0.3s, color 0.3s;
 }
 
@@ -125,7 +125,12 @@ body {
   overflow: hidden;
 }
 
-.about-container > .profile-and-social-container .social-link-container ul li a {
+.about-container
+  > .profile-and-social-container
+  .social-link-container
+  ul
+  li
+  a {
   width: 100%;
   display: flex;
   align-items: center;
@@ -137,7 +142,13 @@ body {
   font-weight: 500;
 }
 
-.about-container > .profile-and-social-container .social-link-container ul li a i {
+.about-container
+  > .profile-and-social-container
+  .social-link-container
+  ul
+  li
+  a
+  i {
   font-size: 22px;
   width: 30px;
   height: 30px;
@@ -146,25 +157,51 @@ body {
   justify-content: center;
 }
 
-.about-container > .profile-and-social-container .social-link-container ul li:nth-of-type(3) a i {
+.about-container
+  > .profile-and-social-container
+  .social-link-container
+  ul
+  li:nth-of-type(3)
+  a
+  i {
   font-size: 18px;
 }
-.about-container > .profile-and-social-container .social-link-container ul li{
-  animation-duration: .3s;
+.about-container > .profile-and-social-container .social-link-container ul li {
+  animation-duration: 0.3s;
 }
-.about-container > .profile-and-social-container .social-link-container ul li:nth-of-type(1){
+.about-container
+  > .profile-and-social-container
+  .social-link-container
+  ul
+  li:nth-of-type(1) {
   animation-delay: 0s;
 }
-.about-container > .profile-and-social-container .social-link-container ul li:nth-of-type(2){
+.about-container
+  > .profile-and-social-container
+  .social-link-container
+  ul
+  li:nth-of-type(2) {
   animation-delay: 0.1s;
 }
-.about-container > .profile-and-social-container .social-link-container ul li:nth-of-type(3){
+.about-container
+  > .profile-and-social-container
+  .social-link-container
+  ul
+  li:nth-of-type(3) {
   animation-delay: 0.2s;
 }
-.about-container > .profile-and-social-container .social-link-container ul li:nth-of-type(4){
+.about-container
+  > .profile-and-social-container
+  .social-link-container
+  ul
+  li:nth-of-type(4) {
   animation-delay: 0.3s;
 }
-.about-container > .profile-and-social-container .social-link-container ul li:nth-of-type(5){
+.about-container
+  > .profile-and-social-container
+  .social-link-container
+  ul
+  li:nth-of-type(5) {
   animation-delay: 0.4s;
 }
 .about-container > .about-info-and-skills-container {
@@ -203,12 +240,19 @@ body {
   font-weight: 500;
 }
 
-.about-container > .about-info-and-skills-container .about-info-container .mail {
+.about-container
+  > .about-info-and-skills-container
+  .about-info-container
+  .mail {
   font-weight: 500;
   margin-top: 30px;
 }
 
-.about-container > .about-info-and-skills-container .about-info-container .mail a {
+.about-container
+  > .about-info-and-skills-container
+  .about-info-container
+  .mail
+  a {
   color: var(--bg-color-1);
   color: dodgerblue;
 }
@@ -229,30 +273,54 @@ body {
   gap: 40px;
   padding: 4px 8px;
 }
-.about-container > .about-info-and-skills-container .skills-container ul li{
-  animation-delay: .8s;
-  animation-duration: .5s;
+.about-container > .about-info-and-skills-container .skills-container ul li {
+  animation-delay: 0.8s;
+  animation-duration: 0.5s;
 }
-.about-container > .about-info-and-skills-container .skills-container ul li:nth-of-type(1) {
+.about-container
+  > .about-info-and-skills-container
+  .skills-container
+  ul
+  li:nth-of-type(1) {
   color: #f06529;
 }
 
-.about-container > .about-info-and-skills-container .skills-container ul li:nth-of-type(2) {
+.about-container
+  > .about-info-and-skills-container
+  .skills-container
+  ul
+  li:nth-of-type(2) {
   color: #2965f1;
 }
 
-.about-container > .about-info-and-skills-container .skills-container ul li:nth-of-type(3) {
+.about-container
+  > .about-info-and-skills-container
+  .skills-container
+  ul
+  li:nth-of-type(3) {
   color: #f0db4f;
 }
 
-.about-container > .about-info-and-skills-container .skills-container ul li:nth-of-type(4) {
+.about-container
+  > .about-info-and-skills-container
+  .skills-container
+  ul
+  li:nth-of-type(4) {
   color: #563d7c;
 }
 
-.about-container > .about-info-and-skills-container .skills-container ul li:nth-of-type(5) {
+.about-container
+  > .about-info-and-skills-container
+  .skills-container
+  ul
+  li:nth-of-type(5) {
   color: #f1502f;
 }
 
-.about-container > .about-info-and-skills-container .skills-container ul li:nth-of-type(6) {
+.about-container
+  > .about-info-and-skills-container
+  .skills-container
+  ul
+  li:nth-of-type(6) {
   color: #cd6799;
 }
